@@ -2,7 +2,7 @@
 /* 
 Plugin Name: JDesrosiers Submenu
 Plugin URI: 
-Description: Plugin to create sub-menus in pages and sub-pages without the need to create custom Menus (in Appearance -> Menus).
+Description: A WordPress plugin to create nested page sub-menus without the need to create custom Menus
 Author: Julien Desrosiers
 Version: 1.0 
 Author URI: http://www.juliendesrosiers.com
